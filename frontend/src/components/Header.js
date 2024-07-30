@@ -7,7 +7,7 @@ import Navbar from 'react-bootstrap/Navbar';
 
 function Header() {
   return (
-    <Navbar expand="lg" bg="dark" variant="dark" collapseOnSelecet>
+    <Navbar expand="lg" bg="dark" variant="dark" collapseOnSelect>
       <Container fluid>
         <Navbar.Brand href="#">Parts Store</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
